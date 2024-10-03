@@ -33,6 +33,7 @@ This Kaggle dataset contains statistics on daily trending YouTube videos across 
 - **Tags, views, likes, and dislikes**
 - **Description and comment count**
 - **`category_id`** — Differs by region, linked through a JSON file.
+- **Dataset Link - https://www.kaggle.com/datasets/datasnaek/youtube-new**
 
 ---
 
